@@ -6,6 +6,7 @@ public class classeGit {
 		//testando mais alguma coisa
 		
 		System.out.println("teste commit1");
+		//Commit Luciano
 	}
 
 }
