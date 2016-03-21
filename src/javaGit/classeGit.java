@@ -3,9 +3,9 @@ package javaGit;
 public class classeGit {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		//testando mais alguma coisa
-
+		
+		System.out.println("teste commit1");
 	}
 
 }
